@@ -1,4 +1,4 @@
-# devto-link-site
+# jasn-link
 
 Source code for the blog posted [here](https://dev.to/dev01d/diy-linktr-ee-with-next-js-2fdh).
 
