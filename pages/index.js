@@ -6,7 +6,7 @@ export default function Home() {
       <Head>
         <title>dev01d</title>
         <link rel="icon" href="favicon.ico" />
-        {*/<!-- Matomo -->*/}
+        {/*<!-- Matomo -->*/}
         <script>
           var _paq = window._paq = window._paq || [];
           /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
@@ -20,7 +20,7 @@ export default function Home() {
             g.async=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s);
           })();
         </script>
-        {*/<!-- End Matomo Code -->*/}
+        {/*<!-- End Matomo Code -->*/}
       </Head>
 
       <main>
