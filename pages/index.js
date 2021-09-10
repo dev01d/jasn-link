@@ -6,6 +6,12 @@ export default function Home() {
       <Head>
         <title>dev01d</title>
         <link rel="icon" href="favicon.ico" />
+        <script
+          async
+          defer
+          data-domain="jasn.link"
+          src="https://analytics.jasonbehnke.io/js/plausible.js"
+        ></script>
       </Head>
 
       <main>
