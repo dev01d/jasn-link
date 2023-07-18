@@ -103,10 +103,10 @@ nanoid@^3.3.4:
   resolved "https://registry.yarnpkg.com/nanoid/-/nanoid-3.3.4.tgz#730b67e3cd09e2deacf03c027c81c9d9dbc5e8ab"
   integrity sha512-MqBkQh/OHTS2egovRtLk45wEyNXwF+cokD+1YPf9u5VfJiRdAiRwB2froX5Co9Rh20xs4siNPm8naNotSD6RBw==
 
-next-plausible@^3.9.1:
-  version "3.9.1"
-  resolved "https://registry.yarnpkg.com/next-plausible/-/next-plausible-3.9.1.tgz#d297b039edb08d73d6846226cdfed93ec4c6e566"
-  integrity sha512-Vt1vUKefLzBO/B/m0SbZf0wviKQcfwpogCxxmpr+gYmbAhZl8RClypKXvPKJHH/P9Rt2aw+GmlAIUUReFKGBPQ==
+next-plausible@^3.10.0:
+  version "3.10.0"
+  resolved "https://registry.yarnpkg.com/next-plausible/-/next-plausible-3.10.0.tgz#9a195c751b7baa93ec98f28cd8bee78593ab88ed"
+  integrity sha512-iXnt0+whmegBDCjcoSxMWpnBfdDKGKoYGXnFnS0miRxv5J5yzOi1nWQcDUOIYCk39tcclpBpC5hwtI4f3cZfNw==
 
 next@^13.4.10:
   version "13.4.10"
