@@ -27,7 +27,7 @@ export default function Home() {
           <a href="https://github.com/dev01d" className="card">
             <h3>Github</h3>
           </a>
-          <a href="https://www.twitch.tv/dev01d_" className="card">
+          <a href="https://www.twitch.tv/imdev01d" className="card">
             <h3>Twitch</h3>
           </a>
           <a href="mailto:contact@jasonbehnke.io" className="card">
