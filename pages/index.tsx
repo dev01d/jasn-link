@@ -1,4 +1,5 @@
 import Head from 'next/head'
+import Image from 'next/image'
 
 export default function Home() {
   return (
@@ -9,7 +10,13 @@ export default function Home() {
       </Head>
 
       <main>
-        <img className="image" src="profile.jpg" />
+        <Image
+          className="image"
+          src="/profile.jpg"
+          alt="Profile Picture"
+          width={150}
+          height={150}
+        />
         <h3 className="description">jason.behnke</h3>
         <div className="grid">
           <a href="https://jasonbehnke.io" className="card">
