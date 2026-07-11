@@ -14,6 +14,7 @@ export default function Home() {
           className="image"
           src="/profile.jpg"
           alt="Profile Picture"
+          loading="eager"
           width={150}
           height={150}
         />
